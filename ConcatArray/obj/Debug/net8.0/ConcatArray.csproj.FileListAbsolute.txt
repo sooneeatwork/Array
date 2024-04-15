@@ -1,0 +1,14 @@
+F:\LeetCodePractices\Array\ConcatArray\obj\Debug\net8.0\ConcatArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\LeetCodePractices\Array\ConcatArray\obj\Debug\net8.0\ConcatArray.AssemblyInfoInputs.cache
+F:\LeetCodePractices\Array\ConcatArray\obj\Debug\net8.0\ConcatArray.AssemblyInfo.cs
+F:\LeetCodePractices\Array\ConcatArray\obj\Debug\net8.0\ConcatArray.csproj.CoreCompileInputs.cache
+F:\LeetCodePractices\Array\ConcatArray\bin\Debug\net8.0\ConcatArray.exe
+F:\LeetCodePractices\Array\ConcatArray\bin\Debug\net8.0\ConcatArray.deps.json
+F:\LeetCodePractices\Array\ConcatArray\bin\Debug\net8.0\ConcatArray.runtimeconfig.json
+F:\LeetCodePractices\Array\ConcatArray\bin\Debug\net8.0\ConcatArray.dll
+F:\LeetCodePractices\Array\ConcatArray\bin\Debug\net8.0\ConcatArray.pdb
+F:\LeetCodePractices\Array\ConcatArray\obj\Debug\net8.0\ConcatArray.dll
+F:\LeetCodePractices\Array\ConcatArray\obj\Debug\net8.0\refint\ConcatArray.dll
+F:\LeetCodePractices\Array\ConcatArray\obj\Debug\net8.0\ConcatArray.pdb
+F:\LeetCodePractices\Array\ConcatArray\obj\Debug\net8.0\ConcatArray.genruntimeconfig.cache
+F:\LeetCodePractices\Array\ConcatArray\obj\Debug\net8.0\ref\ConcatArray.dll
